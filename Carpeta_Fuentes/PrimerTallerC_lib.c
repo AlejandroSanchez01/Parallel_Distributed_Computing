@@ -23,6 +23,7 @@ Introduzca el primer entero: 25
 Introduzca el segundo entero: 15
 Salida esperada:
 Producto de los dos enteros anteriores = 375*/
+
 int num1,num2;
 printf("\n\n--------------");
 printf(" Ejercicio 1 ");
@@ -44,6 +45,7 @@ Salida esperada :
 Años: 3
 Semanas 33
 Días: 3*/
+
 int nDias,residuoAnhos,residuoSemanas;
 printf("\n\n--------------");
 printf(" Ejercicio 2 ");
@@ -122,8 +124,8 @@ printf("--------------\n\n");
 
 printf("Entrada la cantidad de lineas: ");
 scanf("%d",&cantidadLineas);
-
 printf("\n");
+
 if(cantidadLineas<=14 && cantidadLineas>0){
 contador=0;  
 for (i=1;i<=cantidadLineas;i++){
@@ -167,9 +169,7 @@ for (i=0;i<tamanho;i++){
 else{
     printf("El tamanho de la matriz debe ser siempre menor que 8");
 }
-
 }
-
 
 void ejercicio7(){
 /*7.- Escribe un programa que imprima una matriz de números aleatorios enteros, entre 0 y 9, de
@@ -197,9 +197,7 @@ for (i=0;i<tamanho;i++){
 else{
     printf("El tamanho de la matriz debe ser siempre menor que 8");
 }
-
 }
-
 
 void ejercicioMatrices(char ejercicio[1], char operacionMatrices[1]){
 
@@ -227,7 +225,6 @@ for (i=0;i<tamanho;i++){
    }
    printf("\n");
 }
-
 /*Llenar e imprimir la segunda matriz*/
    int matriz2[tamanho][tamanho];
    printf("\n* Matriz 2 NxN *\n\n");
@@ -243,7 +240,7 @@ for (i=0;i<tamanho;i++){
 
 /*Operacion de las matrices*/
 int operacion[tamanho][tamanho];
-if(strcmp(operacionMatrices,"+")){
+if(strcmp(operacionMatrices,"+")==0){
 printf("\n* Sumatoria de Matrices *\n\n");
 }
 else{
@@ -251,9 +248,10 @@ printf("\n* Resta de Matrices *\n\n");
 }
 
 
+
 for (i=0;i<tamanho;i++){
    for (j=0;j<tamanho;j++){
-    if(strcmp(operacionMatrices,"+")){
+    if(strcmp(operacionMatrices,"+")==0){
     operacion[i][j] = matriz1[i][j]+matriz2[i][j];
     }
     else{
@@ -287,6 +285,7 @@ void ejercicio9(){
 /*9.- Escribe un programa que muestre dos matrices de números aleatorios, entre 0 y 9, de
 tamaño NxN. El tamaño es indicado por el usuario y debe ser siempre menor que 8.
 Finalmente, se presenta la resta de las dos matrices.*/
+
 ejercicioMatrices("9","-");
 }
 
