@@ -17,11 +17,11 @@ $ es para definir una variable
 @Benchmarks = ("mm_main_int","mm_main_int_rnd","mm_main_double","mm_main_double_rnd");
 
 #Vector para las cargas
-@Cargas = ("300","1600","4700");
+@Cargas = ("400","1300","2600");
 #Número de repeticiones 
-$n = 2;
+$n = 10;
 #Se almacena la ubicacion
-$Path ="/home/alejandro/Computacion_Paralela/Benchmarks_Entregable/";
+$Path ="/home/alejandro/Documentos/Repositorio_Computacion_Paralela/PrimerCorte/PrimerParcial/Benchmarks_Entregable/";
 
 #Se itera sobre 
 #la cantidad de ejecutable 
