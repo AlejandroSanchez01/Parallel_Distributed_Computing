@@ -17,7 +17,8 @@ $ es para definir una variable
 @Benchmarks = ("mm_main_int","mm_main_int_rnd","mm_main_double","mm_main_double_rnd");
 
 #Vector para las cargas
-@Cargas = ("400","1300","2800");
+#@Cargas = ("2800","3400","4000");
+#@Cargas = ("280","400,"600","900","1300","1600","1900","2300","2600","2800","3400","4000");
 #Número de repeticiones 
 $n = 30;
 #Se almacena la ubicacion
@@ -32,7 +33,7 @@ foreach $exes(@Benchmarks){
 	foreach $carga (@Cargas){
 	#Se crea un fichero para almacenar los datos
 	#Con . se concatena
-	$file = "Soluciones/".$exes."-size-".$carga.".txt";
+	$file = "Soluciones/".$exes."-computadorU"."-size-".$carga.".txt";
 		#printf("$Path$file\n");
 		for ($i=0;$i<$n;$i++){
 		system("$Path$exes $carga >>$file");
