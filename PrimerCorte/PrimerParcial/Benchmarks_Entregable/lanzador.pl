@@ -17,8 +17,8 @@ $ es para definir una variable
 @Benchmarks = ("mm_main_int","mm_main_int_rnd","mm_main_double","mm_main_double_rnd");
 
 #Vector para las cargas
-#@Cargas = ("2800","3400","4000");
-#@Cargas = ("280","400,"600","900","1300","1600","1900","2300","2600","2800","3400","4000");
+@Cargas = ("280","400","600","750","900","1300","1600","1900","2300","2600","2800","3000");
+
 #Número de repeticiones 
 $n = 30;
 #Se almacena la ubicacion

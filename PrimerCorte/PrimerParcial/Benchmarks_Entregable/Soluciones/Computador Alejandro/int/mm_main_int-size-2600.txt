@@ -1,0 +1,44 @@
+
+Total time: 114.952837
+
+Total time: 113.355628
+
+Total time: 113.178384
+
+Total time: 113.375557
+
+Total time: 113.229229
+
+Total time: 113.415799
+
+Total time: 113.451489
+
+Total time: 113.259579
+
+Total time: 113.240157
+
+Total time: 113.322020
+
+Total time: 113.367292
+
+Total time: 113.440209
+
+Total time: 113.175882
+
+Total time: 113.489804
+
+Total time: 112.997151
+
+Total time: 113.241926
+
+Total time: 113.485680
+
+Total time: 113.106045
+
+Total time: 113.119098
+
+Total time: 113.366527
+
+Total time: 113.407273
+
+Total time: 112.918060

@@ -14,9 +14,6 @@
 /***** Se requiere reservar un Espacio de memoria *****/
 #define DATA_SIZE (1024*1024*64*3)/*Memoria de la ram reservada 9000*9000 buena memoria*/
 
-/*#define DATA_SIZE_DOUBLE (1024*1024*64*3*4) *//*Multiplico por 4 porque el dataSIZE asumo que son 2bytes y el double son 8 y 4*2=8*/
-/**4 sale el siguiente error
-reubicación truncada para ajustar: R_X86_64_PC32 contra el símbolo `inicioCuenta' definido en la sección .bss en mm_lib.o*/
 
 static int MEM_CHUNK[DATA_SIZE];
 
