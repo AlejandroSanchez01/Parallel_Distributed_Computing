@@ -1,0 +1,60 @@
+
+Total time: 0.244597
+
+Total time: 0.244330
+
+Total time: 0.243907
+
+Total time: 0.243536
+
+Total time: 0.244500
+
+Total time: 0.244225
+
+Total time: 0.244085
+
+Total time: 0.244467
+
+Total time: 0.244022
+
+Total time: 0.244045
+
+Total time: 0.244454
+
+Total time: 0.244906
+
+Total time: 0.243606
+
+Total time: 0.243664
+
+Total time: 0.245125
+
+Total time: 0.244974
+
+Total time: 0.244221
+
+Total time: 0.244129
+
+Total time: 0.244112
+
+Total time: 0.244593
+
+Total time: 0.244211
+
+Total time: 0.244169
+
+Total time: 0.244063
+
+Total time: 0.243165
+
+Total time: 0.244535
+
+Total time: 0.243391
+
+Total time: 0.244537
+
+Total time: 0.244321
+
+Total time: 0.243236
+
+Total time: 0.245248

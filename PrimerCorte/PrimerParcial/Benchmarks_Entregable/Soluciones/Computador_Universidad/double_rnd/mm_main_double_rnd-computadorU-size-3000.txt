@@ -1,0 +1,60 @@
+
+Total time: 163.240826
+
+Total time: 161.722552
+
+Total time: 163.240826
+
+Total time: 161.722552
+
+Total time: 161.045088
+
+Total time: 162.389422
+
+Total time: 163.916234
+
+Total time: 162.789830
+
+Total time: 161.877285
+
+Total time: 161.486040
+
+Total time: 162.077526
+
+Total time: 162.881317
+
+Total time: 161.775481
+
+Total time: 160.560919
+
+Total time: 164.044102
+
+Total time: 163.172128
+
+Total time: 162.159523
+
+Total time: 162.369611
+
+Total time: 163.463288
+
+Total time: 163.521821
+
+Total time: 163.385995
+
+Total time: 165.254302
+
+Total time: 165.167901
+
+Total time: 163.282182
+
+Total time: 165.801374
+
+Total time: 162.968014
+
+Total time: 165.830352
+
+Total time: 163.656768
+
+Total time: 162.85709
+
+Total time: 161.577123

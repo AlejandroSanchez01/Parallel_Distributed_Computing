@@ -14,10 +14,14 @@ $ es para definir una variable
 =cut
 
 #Vector para los benchmarks
-@Benchmarks = ("mm_main_int","mm_main_int_rnd","mm_main_double","mm_main_double_rnd");
+#@Benchmarks = ("mm_main_int","mm_main_int_rnd","mm_main_double","mm_main_double_rnd");
 
 #Vector para las cargas
-@Cargas = ("280","400","600","750","900","1300","1600","1900","2300","2600","2800","3000");
+#@Cargas = ("280","400","600","750","900","1300","1600","1900","2300","2600","2800","3000");
+
+#doublerandom
+@Benchmarks = ("mm_main_int_rnd");
+@Cargas = ("2600");
 
 #Número de repeticiones 
 $n = 30;
