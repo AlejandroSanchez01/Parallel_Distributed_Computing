@@ -20,7 +20,7 @@ $ es para definir una variable
 #@Cargas = ("280","400","600","750","900","1300","1600","1900","2300","2600","2800","3000");
 
 #doublerandom
-@Benchmarks = ("mm_main_int_rnd");
+@Benchmarks = ("mm_main_int");
 @Cargas = ("2600");
 
 #Número de repeticiones 
@@ -37,7 +37,7 @@ foreach $exes(@Benchmarks){
 	foreach $carga (@Cargas){
 	#Se crea un fichero para almacenar los datos
 	#Con . se concatena
-	$file = "Soluciones/".$exes."-computadorU"."-size-".$carga.".txt";
+	$file = "Soluciones/".$exes."-computadorA"."-size-".$carga.".txt";
 		#printf("$Path$file\n");
 		for ($i=0;$i<$n;$i++){
 		system("$Path$exes $carga >>$file");

@@ -1,60 +1,30 @@
-
-Total time: 6.663001
-
-Total time: 5.980719
-
-Total time: 5.996302
-
-Total time: 6.120627
-
-Total time: 6.078423
-
-Total time: 6.054779
-
-Total time: 6.070126
-
-Total time: 6.084729
-
-Total time: 6.082091
-
-Total time: 6.116710
-
-Total time: 6.109669
-
-Total time: 5.954472
-
-Total time: 6.177150
-
-Total time: 6.177765
-
-Total time: 6.130213
-
-Total time: 6.160305
-
-Total time: 6.202739
-
-Total time: 6.163749
-
-Total time: 6.109239
-
-Total time: 6.166162
-
-Total time: 6.482197
-
-Total time: 6.192839
-
-Total time: 6.235387
-
-Total time: 7.058083
-
-Total time: 6.473016
-
-Total time: 6.348684
-
-Total time: 6.286870
-
-Total time: 6.274901
-
-Total time: 6.206645
-
-Total time: 6.241638
+ 6.663001
+ 5.980719
+ 5.996302
+ 6.120627
+ 6.078423
+ 6.054779
+ 6.070126
+ 6.084729
+ 6.082091
+ 6.116710
+ 6.109669
+ 5.954472
+ 6.177150
+ 6.177765
+ 6.130213
+ 6.160305
+ 6.202739
+ 6.163749
+ 6.109239
+ 6.166162
+ 6.482197
+ 6.192839
+ 6.235387
+ 7.058083
+ 6.473016
+ 6.348684
+ 6.286870
+ 6.274901
+ 6.206645
+ 6.241638

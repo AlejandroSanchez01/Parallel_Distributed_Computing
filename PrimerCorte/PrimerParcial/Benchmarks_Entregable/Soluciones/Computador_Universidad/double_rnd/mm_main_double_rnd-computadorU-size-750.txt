@@ -1,60 +1,30 @@
-
-Total time: 1.103049
-
-Total time: 1.037065
-
-Total time: 1.033822
-
-Total time: 1.033321
-
-Total time: 1.035504
-
-Total time: 1.034065
-
-Total time: 1.044041
-
-Total time: 1.043023
-
-Total time: 1.042897
-
-Total time: 1.043326
-
-Total time: 1.040889
-
-Total time: 1.034576
-
-Total time: 1.015868
-
-Total time: 1.045684
-
-Total time: 1.042462
-
-Total time: 1.045684
-
-Total time: 1.011698
-
-Total time: 1.039886
-
-Total time: 1.043716
-
-Total time: 1.112792
-
-Total time: 1.041027
-
-Total time: 1.094193
-
-Total time: 1.043554
-
-Total time: 1.041926
-
-Total time: 1.039997
-
-Total time: 1.036935
-
-Total time: 1.039158
-
-Total time: 1.040181
-
-Total time: 1.035006
-
-Total time: 1.032558
+ 1.103049
+ 1.037065
+ 1.033822
+ 1.033321
+ 1.035504
+ 1.034065
+ 1.044041
+ 1.043023
+ 1.042897
+ 1.043326
+ 1.040889
+ 1.034576
+ 1.015868
+ 1.045684
+ 1.042462
+ 1.045684
+ 1.011698
+ 1.039886
+ 1.043716
+ 1.112792
+ 1.041027
+ 1.094193
+ 1.043554
+ 1.041926
+ 1.039997
+ 1.036935
+ 1.039158
+ 1.040181
+ 1.035006
+ 1.032558
