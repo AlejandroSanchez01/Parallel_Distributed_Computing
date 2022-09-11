@@ -53,10 +53,6 @@ sudo apt update
 * Abrir proyecto en "Benchmarks_Entregable"
 * En la terminal de ubuntu estando dentro de esa carpeta, escribir el comando *make all* para generar los archivos necesarios
 <br>
-Tal como aparece en la imagen acontinuación
-<br>
-Luego de seguir los pasos anteriores, se abrirá la terminal con el menú de opciones, luego podrá digitar el número del código que desea vistualizar<br><br>
-Para mayor entendimiento del proceso a realizar, revisar la figura 1.<br><br>
 <p align="center"> <img src="https://github.com/AlejandroSanchez01/Parallel_Distributed_Computing/blob/main/PrimerCorte/PrimerParcial/Imagenes_proceso_ejecucion/crear_objetos_ejecutables.png" width="400"/> </p>
 
 <p align="center"><i><b>Figura 1</i></b></p>
