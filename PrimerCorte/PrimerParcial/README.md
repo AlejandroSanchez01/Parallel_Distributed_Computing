@@ -101,7 +101,10 @@ Ejemplo
 
 * Al observar y analizar las gráficas de los tiempos de ejecución, se puede determinar que el nodo de computo U a nivel general obtuvo el mejor rendimiento, debido a que fue el que ejecuto los 4 benchmarks en menor tiempo, seguido a este se encuentra el nodo de computo A el cual tuvo un desempeño promedio ni tan optimo como el nodo U ni tan bajo como el nodo S y finalmente el nodo S, el cual fue el mas "deficiente" considerando los tiempos altos que obtuvo.
 
-*
+* Las caracteristicas del hardware como la cantidad de nucleos y la velocidad del reloj, el cual mide el número de ciclos que el CPU ejecuta por segundo, son indispensables ya que tambien juegan un papel muy importante al momento de obtener mejores tiempos de ejecucion para los diferentes benchmarks. 
+
+* El uso de punteros para la implementacion de los diferentes benchmarks, entiendase un puntero como dicha variable que almacena la direccion de memoria de otra variable, presenta una ventaja significativa puesto que al usarlos se puede acceder directamente al espacio de memoria sin tener que buscar dicha dirección de memoria, permitiendo que el tiempo de ejecución de los procesos sea menor que en caso de usar variables int y double sin punteros, en donde al asignarle una memoria fija para cada matriz, habria una mayor restriccion para hacerla multiplicacion de matrices para cierta dimension N.
+
 
 
 # Referencias
