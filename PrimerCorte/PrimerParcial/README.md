@@ -57,7 +57,7 @@ Tal como aparece en la imagen acontinuación
 <br>
 Luego de seguir los pasos anteriores, se abrirá la terminal con el menú de opciones, luego podrá digitar el número del código que desea vistualizar<br><br>
 Para mayor entendimiento del proceso a realizar, revisar la figura 1.<br><br>
-<p align="center"> <img src="https://github.com/AlejandroSanchez01/Parallel_Distributed_Computing/blob/main/PrimerCorte/Imagenes_proceso_ejecucion/crear_objetos_ejecutables.png" width="800"/> </p>
+<p align="center"> <img src="https://github.com/AlejandroSanchez01/Parallel_Distributed_Computing/blob/main/PrimerCorte/PrimerParcial/Imagenes_proceso_ejecucion/crear_objetos_ejecutables.png" width="400"/> </p>
 
 <p align="center"><i><b>Figura 1</i></b></p>
 
@@ -68,32 +68,32 @@ Comandos para ejecutar el programa de multiplicacion de matrices
 * Tipo int se debe escribir en consola *./mm_main_int* seguido de la dimension y presionar enter
 <br>
 Ejemplo
-<p align="center"> <img src="https://github.com/AlejandroSanchez01/Parallel_Distributed_Computing/blob/main/PrimerCorte/Imagenes_proceso_ejecucion/int.png" width="800"/> </p>
+<p align="center"> <img src="https://github.com/AlejandroSanchez01/Parallel_Distributed_Computing/blob/main/PrimerCorte/PrimerParcial/Imagenes_proceso_ejecucion/int.png" width="400"/> </p>
 
-<p align="center"><i><b>Figura 2</i></b></p>
+<p align="center"><i><b>Comando para ejecutar matriz int </i></b></p>
 
 
 * Tipo int con números random se debe escribir en consola *./mm_main_int_rnd* seguido de la dimension y presionar enter
 <br>
 Ejemplo
-<p align="center"> <img src="https://github.com/AlejandroSanchez01/Parallel_Distributed_Computing/blob/main/PrimerCorte/Imagenes_proceso_ejecucion/int_rnd.png" width="800"/> </p>
+<p align="center"> <img src="https://github.com/AlejandroSanchez01/Parallel_Distributed_Computing/blob/main/PrimerCorte/PrimerParcial/Imagenes_proceso_ejecucion/int_rnd.png" width="400"/> </p>
 
-<p align="center"><i><b>Figura 3</i></b></p>
+<p align="center"><i><b>Comando para ejecutar matriz int_rnd </i></b></p>
 
 
 * Tipo double se debe escribir en consola *./mm_main_double* seguido de la dimension y presionar enter
 <br>
 Ejemplo
-<p align="center"> <img src="https://github.com/AlejandroSanchez01/Parallel_Distributed_Computing/blob/main/PrimerCorte/Imagenes_proceso_ejecucion/double.png" width="800"/> </p>
+<p align="center"> <img src="https://github.com/AlejandroSanchez01/Parallel_Distributed_Computing/blob/main/PrimerCorte/PrimerParcial/Imagenes_proceso_ejecucion/double.png" width="400"/> </p>
 
-<p align="center"><i><b>Figura 4</i></b></p>
+<p align="center"><i><b>Comando para ejecutar matriz double</i></b></p>
 
 * Tipo double con números random se debe escribir en consola *./mm_main_double_rnd* seguido de la dimension y presionar enter
 <br>
 Ejemplo
-<p align="center"> <img src="https://github.com/AlejandroSanchez01/Parallel_Distributed_Computing/blob/main/PrimerCorte/Imagenes_proceso_ejecucion/double_rnd.png" width="800"/> </p>
+<p align="center"> <img src="https://github.com/AlejandroSanchez01/Parallel_Distributed_Computing/blob/main/PrimerCorte/PrimerParcial/Imagenes_proceso_ejecucion/double_rnd.png" width="400"/> </p>
 
-<p align="center"><i><b>Figura 5</i></b></p>
+<p align="center"><i><b>Comando para ejecutar matriz double_rnd </i></b></p>
 
 
 <br>**4. Ejecucion benchmarks para obtener de forma automatica los tiempos para las 12 cargas**
