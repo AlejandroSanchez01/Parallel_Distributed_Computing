@@ -55,7 +55,7 @@ sudo apt update
 <br>
 <p align="center"> <img src="https://github.com/AlejandroSanchez01/Parallel_Distributed_Computing/blob/main/PrimerCorte/PrimerParcial/Imagenes_proceso_ejecucion/crear_objetos_ejecutables.png" width="400"/> </p>
 
-<p align="center"><i><b>Figura 1</i></b></p>
+<p align="center"><i><b>Comando Make clean y Make all</i></b></p>
 
 <br>**3. Ejecutar de forma manual los diferentes benchmark para N dimensiones** 
 
@@ -99,11 +99,13 @@ Ejemplo
 
 # Conclusiones
 
-* Al observar y analizar las gráficas de los tiempos de ejecución, se puede determinar que el nodo de computo U a nivel general obtuvo el mejor rendimiento, debido a que fue el que ejecuto los 4 benchmarks en menor tiempo, seguido a este se encuentra el nodo de computo A el cual tuvo un desempeño promedio ni tan optimo como el nodo U ni tan bajo como el nodo S y finalmente el nodo S, el cual fue el mas "deficiente" considerando los tiempos altos que obtuvo.
+* Al observar y analizar las gráficas de los tiempos de ejecución, se puede determinar que el nodo de cómputo U a nivel general obtuvo el mejor rendimiento, debido a que fue el que ejecutó los 4 benchmarks en menor tiempo, seguido a este se encuentra el nodo de cómputo A el cual tuvo un desempeño promedio ni tan óptimo como el nodo U ni tan bajo como el nodo S y finalmente el nodo S, el cual fue el mas deficiente considerando los tiempos altos que obtuvo. 
 
-* Las caracteristicas del hardware como la cantidad de nucleos y la velocidad del reloj, el cual mide el número de ciclos que el CPU ejecuta por segundo, son indispensables ya que tambien juegan un papel muy importante al momento de obtener mejores tiempos de ejecucion para los diferentes benchmarks. 
+* Las características del hardware como la cantidad de núcleos y la velocidad del reloj, el cual mide el número de ciclos que el CPU ejecuta por segundo, son indispensables ya que también juegan un papel muy importante al momento de obtener mejores tiempos de ejecución para los diferentes benchmarks. Sin embargo, este análisis permite verificar que sino se hacen uso de la totalidad de los recursos del computador, como la cantidad de hilos que tiene, no se va a obtener un mejor rendimiento en los tiempos de ejecución.
 
-* El uso de punteros para la implementacion de los diferentes benchmarks, entiendase un puntero como dicha variable que almacena la direccion de memoria de otra variable, presenta una ventaja significativa puesto que al usarlos se puede acceder directamente al espacio de memoria sin tener que buscar dicha dirección de memoria, permitiendo que el tiempo de ejecución de los procesos sea menor que en caso de usar variables int y double sin punteros, en donde al asignarle una memoria fija para cada matriz, habria una mayor restriccion para hacerla multiplicacion de matrices para cierta dimension N.
+* El uso de punteros para la implementación de los diferentes benchmarks, entiéndase un puntero como dicha variable que almacena la dirección de memoria de otra variable, presenta una ventaja significativa puesto que al usarlos se puede acceder directamente al espacio de memoria sin tener que buscar dicha dirección de memoria, permitiendo que el tiempo de ejecución de los procesos sea menor que en caso de usar variables int y double sin punteros, en donde al asignarle una memoria fija para cada matriz, habría una mayor restricción para hacerla multiplicación de matrices para cierta dimensión N.
+
+* Al realizar el análisis de las gráficas se obtiene que al aumentar el tamaño de las matrices, aumenta el tiempo de ejecución de los procesos, lo cual se da porque al momento de descender en la jerarquía de memoria por la dimensión de N, se debe acceder a la memoria RAM cuando se termina el espacio en las caches L1, L2, L3.
 
 
 
