@@ -54,7 +54,7 @@ n_steps = 2000000
 #Definiccion de experimentos
 #Reduccion ruido Gaussiano
 
-for i in range(2):
+for i in range(20):
     #Toma de tiempos para python
     ini_time = time.time()
     planet_orbit_py.step_time(tierraPy, time_span, n_steps)
