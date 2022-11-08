@@ -35,11 +35,11 @@ Archivos utilizados:
 
 # Desarrollo
 
-![Ejecucion del programa]([https://github.com/AlejandroSanchez01/Parallel_Distributed_Computing/blob/6b97c28d2fa246a8cbdff581f780a163304ca20a/TercerCorte/Imagenes/Problema.png])
+![Ejecucion del programa](https://github.com/AlejandroSanchez01/Parallel_Distributed_Computing/blob/6b97c28d2fa246a8cbdff581f780a163304ca20a/TercerCorte/Imagenes/Problema.png)
 
 A continuación se presentan algunos de los tiempos que se obtuvieron en la ejecución del programa
 
-![Tiempos obtenidos]([https://github.com/AlejandroSanchez01/Parallel_Distributed_Computing/blob/adb9e3d916319017aa575ea008e26aa14b5c0bc4/TercerCorte/Imagenes/TiemposObtenidos.png])
+![Tiempos obtenidos](https://github.com/AlejandroSanchez01/Parallel_Distributed_Computing/blob/adb9e3d916319017aa575ea008e26aa14b5c0bc4/TercerCorte/Imagenes/TiemposObtenidos.png)
 
 
 
