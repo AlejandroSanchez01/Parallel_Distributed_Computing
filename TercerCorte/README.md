@@ -57,7 +57,7 @@ A continuación se presentan algunos de los tiempos que se obtuvieron en la ejec
 ![Tiempos obtenidos](https://github.com/AlejandroSanchez01/Parallel_Distributed_Computing/blob/adb9e3d916319017aa575ea008e26aa14b5c0bc4/TercerCorte/Imagenes/TiemposObtenidos.png)
 
 # Conclusiones
-* El colab se puede encontrar aqui [a link](https://github.com/AlejandroSanchez01/Parallel_Distributed_Computing/blob/d2a95bc5459feead181718c200ea54a71b70e7ab/TercerCorte/RendimientoPythonVsCython.ipynb) , el cual está a disposición para que se pueda replicar el experimento.
+* El colab se puede encontrar aqui [link](https://github.com/AlejandroSanchez01/Parallel_Distributed_Computing/blob/d2a95bc5459feead181718c200ea54a71b70e7ab/TercerCorte/RendimientoPythonVsCython.ipynb) , el cual está a disposición para que se pueda replicar el experimento.
 
 * Se hace un analisis exhaustivo de los resultados de bateria de experimentos realizados en Cython y en Python.
 
